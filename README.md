@@ -21,15 +21,40 @@ Steps🫣:
 8. Voalla 🛠️
 
 You can find a youtube video of me making my already homemade monitor portable right here:
-<a href="https://www.youtube.com/watch?v=QH4381OLQxs" target="_blank">
-  <img src="https://img.youtube.com/vi/QH4381OLQxs/maxresdefault.jpg" 
-       alt="Video Thumbnail" 
-       style="width:100%; max-width:600px; border-radius:8px;">
-  <p align="center" style="margin-top:-40px; font-size:48px;">▶️</p>
-</a>
+<h2>📺 Video Demos</h2>
 
+<!-- First Video: Portable Monitor Usability -->
+<h3>Portable Monitor Demo</h3>
+<p align="center">
+  <a href="https://youtu.be/YZmR0JxsKJU" target="_blank">
+    <img src="https://img.youtube.com/vi/YZmR0JxsKJU/maxresdefault.jpg" 
+         alt="Portable Monitor Usability Demo" 
+         width="600" 
+         style="border-radius:8px; border:1px solid #ccc;">
+    <br>
+    <strong style="font-size:20px; color:#FF0000;">▶️ PLAY VIDEO</strong>
+  </a>
+  <br>
+  <a href="https://youtu.be/YZmR0JxsKJU" target="_blank" style="color:#0366d6;">
+    https://youtu.be/YZmR0JxsKJU
+  </a>
+</p>
+
+<br>
+
+<!-- Second Video: Original Shorts Converted -->
+<h3>Original Video</h3>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=QH4381OLQxs" target="_blank">
+    <img src="https://img.youtube.com/vi/QH4381OLQxs/maxresdefault.jpg" 
+         alt="Video Thumbnail" 
+         width="600" 
+         style="border-radius:8px; border:1px solid #ccc;">
+    <br>
+    <strong style="font-size:20px; color:#FF0000;">▶️ PLAY VIDEO</strong>
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=QH4381OLQxs" target="_blank" style="color:#0366d6;">
     https://www.youtube.com/watch?v=QH4381OLQxs
   </a>
 </p>
