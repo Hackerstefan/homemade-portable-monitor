@@ -21,4 +21,5 @@ Steps🫣:
 8. Voalla 🛠️
 
 You can find a youtube video of me making my already homemade monitor portable right here:
+[![Video thumbnail](https://img.youtube.com/vi/QH4381OLQxs/0.jpg)](https://youtube.com/watch?v=QH4381OLQxs)
 
