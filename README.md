@@ -35,3 +35,15 @@ You can find a youtube video of me making my already homemade monitor portable r
 </p>
 
 Also i made a demo:
+<a href="https://youtu.be/YZmR0JxsKJU" target="_blank">
+  <img src="https://img.youtube.com/vi/YZmR0JxsKJU/0.jpg" 
+       alt="Portable Monitor Usability Demo" 
+       style="width:100%; max-width:600px; border-radius:8px;">
+  <p align="center" style="margin-top:-40px; font-size:48px;">▶️</p>
+</a>
+
+<p align="center">
+  <a href="https://youtu.be/YZmR0JxsKJU" target="_blank">
+    https://youtu.be/YZmR0JxsKJU
+  </a>
+</p>
